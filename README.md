@@ -35,6 +35,7 @@ Araclarin saatlik kiralanabildigi, kullanici ve kiralama takibini saglayan masau
     │   └── widgets/
     │       ├── bilesenler.py           # UI bilesenleri
     │       └── diyaloglar.py           # Modal diyaloglar
+    ├── images/                          # Ekran goruntuleri
     └── data/
         ├── araclar.json
         ├── kullanicilar.json
@@ -69,6 +70,33 @@ Araclarin saatlik kiralanabildigi, kullanici ve kiralama takibini saglayan masau
 - **Kiralama Islemleri:** Arac kiralama, iade etme, otomatik sure ve tutar hesaplama, atomik islem (rollback destekli)
 - **Raporlar:** Marka dagilimi (bar grafik), en aktif kullanicilar top 5, toplam gelir, CSV export
 - **Tasarim:** Editorial/gazete temasi - kagit beyazi (#fdfdfb), murekkep siyahi, editoryal kirmizi accent
+
+
+## Ekran Goruntuleri
+
+### Giris Ekrani
+
+![Giris Ekrani](images/giris_ekrani.png)
+
+### Kontrol Paneli
+
+![Yonetim Paneli](images/yonetim_paneli.png)
+
+### Arac Yonetimi
+
+![Araclar Ekrani](images/araclar_ekrani.png)
+
+### Kullanici Yonetimi
+
+![Kullanicilar Sekmesi](images/kullanicilar_sekmesi.png)
+
+### Kiralama Islemleri
+
+![Kiralama Ekrani](images/kiralama_ekrani.png)
+
+### Raporlar
+
+![Gelen Rapor Ekrani](images/gelen_rapor_ekrani.png)
 
 
 ## Kurulum ve Calistirma
